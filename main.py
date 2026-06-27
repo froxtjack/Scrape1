@@ -111,8 +111,8 @@ def send_messages():
 
         reply_markup = {
             "inline_keyboard": [[
-                {"text": "DEVELOPER", "url": "https://t.me/Atul_FROXT_73", style="primary", icon=6001198270435563383},
-                {"text": "1ST CHANNEL", "url": "https://t.me/+gS3I7lo7i98zZjc1", style="primary", icon=5260681660189408650},
+                {"text": "DEVELOPER", "url": "https://t.me/Atul_FROXT_73"},
+                {"text": "1ST CHANNEL", "url": "https://t.me/+gS3I7lo7i98zZjc1"},
             ]]
         }
         
