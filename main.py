@@ -10,7 +10,7 @@ fake = Faker()
 
 # Get from environment variables
 BOT_TOKEN = os.environ.get('BOT_TOKEN', '8442090009:AAHvLKPceX1_Bm9jvdBmLXIAG3KDOM5tmio')
-CHAT_ID = int(os.environ.get('CHAT_ID', -1004383954293))
+CHAT_ID = int(os.environ.get('CHAT_ID', -1003332800094)
 
 # Card prefixes
 CARD_PREFIXES = {
