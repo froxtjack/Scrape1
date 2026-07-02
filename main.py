@@ -247,7 +247,7 @@ def send_messages():
     telegram_api = f'https://api.telegram.org/bot{BOT_TOKEN}'
     requests_limit = 1
     pause_duration = 2
-    total_cards = 1000
+    total_cards = 100000000000
     max_retries = 3
     
     success_count = 0
