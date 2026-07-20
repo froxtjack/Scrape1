@@ -269,7 +269,6 @@ async def send_approved_card(chat_id, card_data=None):
 🏦 <b>𝗕𝗸</b> {card_data['bank']}
 🍒 <b>𝗕𝗱</b> {card_data['card_type']}
 📌 <b>𝗧𝗲</b> {card_data['type']
-🔥 <b>𝗟𝘃</b> {card_data['level']}
 🌎 <b>𝗖𝗶𝘁𝘆</b> {card_data['country']} {card_data['country_flag']}
 ━━━━━━━━━━━━━━━━━━━━━━━━
 @ScarpXdeath_bot
